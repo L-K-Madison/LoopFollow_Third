@@ -291,7 +291,7 @@
                             <constraint firstItem="mJy-Ly-Jze" firstAttribute="top" secondItem="PQr-Ze-W5v" secondAttribute="top" constant="8" id="xem-Lc-bdU"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Home" image="house" catalog="system" id="acW-dT-cKf" userLabel="Home"/>
+                    <tabBarItem key="tabBarItem" title="Home" image="figure.tennis" catalog="system" id="acW-dT-cKf" userLabel="Home"/>
                     <connections>
                         <outlet property="BGChart" destination="51B-JU-npv" id="oF1-UA-KHE"/>
                         <outlet property="BGChartFull" destination="Nml-lr-dgQ" id="Z21-fG-GK9"/>
@@ -452,7 +452,7 @@
                             <constraint firstItem="ZaU-Ss-piB" firstAttribute="top" secondItem="Dt4-CR-Iqb" secondAttribute="top" constant="50" id="cD1-U9-tJJ"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Snoozer" image="zzz" catalog="system" id="TdI-rW-rdW"/>
+                    <tabBarItem key="tabBarItem" title="Snoozer" image="tennisball.fill" catalog="system" id="TdI-rW-rdW"/>
                     <connections>
                         <outlet property="AlertLabel" destination="tiA-fs-ZRV" id="bGa-wR-GbX"/>
                         <outlet property="BGLabel" destination="Iq3-I1-HX0" id="nkC-0M-OpG"/>
@@ -496,7 +496,7 @@
                             <constraint firstAttribute="trailing" secondItem="5Xw-bG-4Kg" secondAttribute="trailing" id="hoj-B8-6r3"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Nightscout" image="safari" catalog="system" id="cPa-gy-q4n"/>
+                    <tabBarItem key="tabBarItem" title="Nightscout" image="tennis.racket.circle" catalog="system" id="cPa-gy-q4n"/>
                     <connections>
                         <outlet property="WebView" destination="5Xw-bG-4Kg" id="WKZ-Pf-oAY"/>
                     </connections>
@@ -515,7 +515,7 @@
                         <viewLayoutGuide key="safeArea" id="SlM-Sc-PIr"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Remote" image="antenna.radiowaves.left.and.right" catalog="system" id="c7L-5b-Di9"/>
+                    <tabBarItem key="tabBarItem" title="Remote" image="tennis.racket" catalog="system" id="c7L-5b-Di9"/>
                     <navigationItem key="navigationItem" id="Lph-Pi-ZZL"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Rld-0Y-q4t" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -548,7 +548,7 @@
                         <viewLayoutGuide key="safeArea" id="aVb-ap-Pwt"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Settings" image="gear" catalog="system" id="CBE-5V-OzJ"/>
+                    <tabBarItem key="tabBarItem" title="Settings" image="tennis.racket.circle.fill" catalog="system" id="CBE-5V-OzJ"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mou-xo-Vm3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
